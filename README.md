@@ -74,6 +74,7 @@ Analyze and improve context quality with scoring, issue detection, and actionabl
 - **GUI**: Tkinter (cross-platform)
 - **Build**: PyInstaller for standalone executables
 - **Architecture**: Modular, event-driven with MCP integration
+- **Built With**: Using Gen Claude for Assisted Development
 
 ## 📚 Documentation
 
@@ -90,7 +91,6 @@ For issues, enhancements, or questions:
 
 ## 📄 License
 
-Open source - modify and distribute freely.
 
 ---
 
